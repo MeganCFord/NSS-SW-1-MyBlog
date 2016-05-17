@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Random Ducklings!</title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+<!-- Header/title area -->
+  <header id="header">
+    <h1 id="title">Vote for Ducklings</h1>
+  </header>
+  <!-- Nav Bar -->
+  <nav>
+    <ul>
+      <li><a href="index.html" title="Home">Home</a></li>
+      <li><a href="ducklings.html" title="vote">Vote for the Best Duckling</a></li>
+    </ul>
+  </nav>
+  <!--wrapper is holding main content except for header and footer-->
+  <wrapper> 
+	<fieldset> <!-- main vote fieldset-->
+		<legend>Vote for your Favorite Duckling</legend>
+		<label for "name">Your Name 
+			<input type="text" name="name" placeholder="first name is ok" autofocus>
+		</label>
+		<br>
+		<label for="ageRange">Your Age
+			<input name="age" list="ageRange">
+				<datalist id="ageRange">
+					<option value="8-11"></option>
+					<option value="12-16"></option>
+					<option value="16-20"></option>	
+					<option value="old"></option>
+				</datalist>
+			</input>
+		</label>
+		<br>
+		<!-- voting thing -->
+		<label for="best duckling" name="best duckling">My Vote for Best Duckling 
+			<input type="radio" name= "best duckling" value="Duckling 1">Duckling 1</option>
+			<input type="radio" name="best duckling" value="Duckling 2">Duckling 2</option>
+			<input type="radio" name= "best duckling" value="Duckling 3">Duckling 3</option>
+			<input type="radio" name= "best duckling" value="Honorary Duckling 1">Honorary Duckling 1</option>
+			<input type="radio" name= "best duckling" value="Honorary Duckling 2">Honorary Duckling 2</option>
+			<input type="radio" name= "best duckling" value="Honorary Duckling 3">Honorary Duckling 3</option>
+		</label>
+	</fieldset>
+	</wrapper>
+
+	<!-- MAIN PAGE FOOTER -->
+  <footer>
+    <p><a href="https://www.instagram.com/explore/tags/duckling/">Latest Duckling Instagrams!</a></p>
+    <p>&copy Megan Ford</p>
+  </footer>
+</body>
+</html>
