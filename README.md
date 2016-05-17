@@ -17,6 +17,10 @@ NSS Front-End Milestone 1 (Static Web) Exercise 1:
 
 [Requirements For Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/exercises/SW_HTML_BLOG.md)
 
+NSS Front-End Milestone 1 (Static Web) Exercise 4: 
+
+[Requirements for Project](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/exercises/SW_CSS_ARTICLE_STYLES.md)
+
 
 
 ## Install
