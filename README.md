@@ -23,15 +23,15 @@ NSS Front-End Milestone 1 (Static Web) Exercise 1:
 
 
 ``` 
-git clone
-cd html
+git clone https://github.com/MeganCFord/NSS-SW-1-MyBlog.git
+cd 1-my-blog
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-1-MyBlog)
 
 
-![screenshot]()
+![screenshot](img/my-blog-screenshot.jpg)
 
 
 ## License 
